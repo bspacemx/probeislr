@@ -1805,10 +1805,56 @@ body {
   color: #ffffff !important;
   border-bottom: 1px solid currentColor;
 }
-.cid-rCqnPxBg4Y {
-  padding-top: 225px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/alejandrocalalpa-cover2x-2000x581.png");
+.cid-rCqFjN8XMD {
+  overflow: hidden !important;
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #8f2747;
+}
+.cid-rCqFjN8XMD .container-fluid {
+  padding: 0 5rem;
+}
+.cid-rCqFjN8XMD .img-block {
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-rCqFjN8XMD .mbr-section-title {
+  padding-bottom: 2rem;
+  color: #ffffff;
+}
+.cid-rCqFjN8XMD .mbr-section-subtitle {
+  color: #3e4555;
+  font-weight: 400;
+}
+.cid-rCqFjN8XMD .mbr-figure {
+  border-radius: .25rem;
+  overflow: hidden;
+}
+@media (max-width: 1199px) {
+  .cid-rCqFjN8XMD .mbr-figure img {
+    width: 100%;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rCqFjN8XMD .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-rCqFjN8XMD .mbr-figure {
+    margin-top: 1rem;
+  }
+  .cid-rCqFjN8XMD .mbr-section-title {
+    text-align: center !important;
+  }
+  .cid-rCqFjN8XMD .mbr-section-subtitle {
+    text-align: center !important;
+  }
+  .cid-rCqFjN8XMD .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+.cid-rCqFjN8XMD .mbr-section-subtitle,
+.cid-rCqFjN8XMD .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rCqtnS3ODX {
   padding-top: 75px;
@@ -1832,13 +1878,13 @@ body {
   border-radius: .25rem;
 }
 .cid-rCqtnS3ODX .card1 {
-  background: linear-gradient(45deg, #c29960, #8a6627);
+  background: linear-gradient(45deg, #ffffff, #f6f6f6);
 }
 .cid-rCqtnS3ODX .card2 {
-  background: linear-gradient(45deg, #8f2747, #400f19);
+  background: linear-gradient(45deg, #ffffff, #f6f6f6);
 }
 .cid-rCqtnS3ODX .card3 {
-  background: linear-gradient(45deg, #c29960, #8a6627);
+  background: linear-gradient(45deg, #ffffff, #f6f6f6);
 }
 .cid-rCqtnS3ODX .card4 {
   background: linear-gradient(45deg, #1dc9cb, #1dc9cb);
@@ -1853,6 +1899,28 @@ body {
 }
 .cid-rCqtnS3ODX .mbr-section-btn {
   padding-top: 1rem;
+}
+.cid-rCqtnS3ODX .card1 > .mbr-card-title {
+  color: #8f2747;
+}
+.cid-rCqtnS3ODX .card1 > .mbr-text,
+.cid-rCqtnS3ODX .card1 > .mbr-section-btn {
+  color: #8f2747;
+}
+.cid-rCqtnS3ODX .card2 > .mbr-card-title {
+  color: #c29960;
+}
+.cid-rCqtnS3ODX .card2 > .mbr-text,
+.cid-rCqtnS3ODX .card2 > .mbr-section-btn {
+  text-align: left;
+  color: #c29960;
+}
+.cid-rCqtnS3ODX .card3 > .mbr-card-title {
+  color: #8f2747;
+}
+.cid-rCqtnS3ODX .card3 > .mbr-text,
+.cid-rCqtnS3ODX .card3 > .mbr-section-btn {
+  color: #8f2747;
 }
 .cid-rCqovplx9v {
   padding-top: 0px;
